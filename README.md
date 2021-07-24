@@ -12,3 +12,4 @@ Android
 
 ![book02](https://user-images.githubusercontent.com/72876989/126868708-7e9123b9-f5fa-4669-bf4e-22d3cf7b94ec.png)
 
+## Have some questions or want to give a feedback? You can send me an email at emilgabriel@gmail.com
