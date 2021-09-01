@@ -4,6 +4,8 @@ Android
 ## A scalable app that is parsing a cvs file to make java objects
 ## The pojos properties are then displayed to the views accordingly
 
+Source Code available on the Master branch
+
 ![book01](https://user-images.githubusercontent.com/72876989/126868687-06146b1f-9c8f-4f2d-af23-c1f6009ab6a0.png)
 
 ![book03](https://user-images.githubusercontent.com/72876989/126868700-8a89f51f-5c8b-4cc3-bee7-e5dba6b1b379.png)
